@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript Language.**
 
-- 📫 How to reach me **aakashrao0210@gmail.com**
+- 📫 How to reach me **aakash.codes02@gmail.com**
 
 - ⚡ Fun fact **I know CSS preety good even though sometimes I struggle with it.**
 
