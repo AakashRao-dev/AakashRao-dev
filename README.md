@@ -23,5 +23,4 @@ I'm Aakash from India 🇮🇳, and I am a Frontend Developer & Designer. I real
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AakashRao-dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aakashrao-dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aakash_codes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aakash_codes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/aakash_codes)  
  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aakash_codes)](https://github.com/anuraghazra/github-readme-stats)
 
