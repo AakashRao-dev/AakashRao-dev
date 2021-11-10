@@ -7,6 +7,7 @@ I'm Aakash from India 🇮🇳, and I am a Frontend Developer & Designer. I real
 * 💻 HTML, CSS & JS
 * 🎨 Web & UI Design
 
+## Exploring my World
 - 🔭 I’m currently working on My Youtube Channel 
 - 🌱 I’m currently learning JavaScript 
 - 🤔 I’m looking for help with React.Js 
