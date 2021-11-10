@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/AakashRao-dev/AakashRao-dev/blob/main/Final-Image.png?raw=true" /></a>
+<a href="#"><img src="https://github.com/AakashRao-dev/AakashRao-dev/blob/main/Final-Image.png?raw=true" display="block" margin="0 auto" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aakash</h1>
 <h3 align="center">I'm a passionate Frontend Developer from India.</h3>
