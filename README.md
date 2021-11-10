@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Aakash Rao
 ![](https://pbs.twimg.com/profile_banners/1451743877912678401/1636432396/600x200)
+# Hi there 👋, I'm Aakash Rao
 
 ![Profile views](https://gpvc.arturio.dev/AakashRao-dev)     [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAakashRao-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
