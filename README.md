@@ -14,9 +14,11 @@ I'm Aakash from India 🇮🇳, and I am a Frontend Developer & Designer. I real
 - 🌱 I’m currently learning JavaScript 
 - ⚡ Fun fact: Even though I call myself as Frontend Developer I still struggle with CSS styling. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashRao-Dev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AakashRao-dev&theme=radical&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashRao-Dev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
