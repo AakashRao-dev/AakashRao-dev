@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/AakashRao-dev/AakashRao-dev/3d9922c723dd48f952233e4ab56c888b960c5750/undraw_feeling_proud_qne1%20(1).svg" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aakash</h1>
 <h3 align="center">I'm a passionate Frontend Developer from India.</h3>
