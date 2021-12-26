@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aakash.codes02@gmail.com**
 
-- ⚡ Fun fact **HTML is a programming Language. Don't trust me go and check on google. **
+- ⚡ Fun fact **HTML is a programming Language. Don't trust me go and check on google.**
 
 ## 🚀 Languages and Tools:
 
