@@ -16,7 +16,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <img src="https://img.shields.io/badge/%20-HTML%20-%23E65100">
+    <img src="https://img.shields.io/badge/%20-HTML%20-%23E65100"> &nbsp
     <img src="https://img.shields.io/badge/%20-CSS%20-%23039BE5">
     <img src="https://img.shields.io/badge/%20-JAVASCRIPT%20-%23f7df1e">
 </p>
