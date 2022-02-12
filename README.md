@@ -6,11 +6,8 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[My Youtube Channel](https://www.youtube.com/channel/UCvBem_OJp_qTOtIPYHA-VXQ)**
-
 - 🌱 I’m currently learning **JavaScript Language.**
-
 - 📫 How to reach me **aakash.codes02@gmail.com**
-
 - ⚡ Fun fact **HTML is a programming Language. Don't trust me go and check on google.**
 
 ## 🚀 Languages and Tools:
