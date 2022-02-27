@@ -1,7 +1,6 @@
 <a href="#"><img src="https://github.com/AakashRao-dev/AakashRao-dev/blob/main/Github%20Banner.gif?raw=true" width="100%" /></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aakash</h1>
-<h3 align="center">I'm a passionate Frontend Developer from India.</h3>
+<h3 align="center">I'm a passionate Frontend Developer from India <img src="https://img.icons8.com/color/344/india.png" width="20px" alt="India Flag">.</h3>
 
 ## 🙋‍♂️ About Me
 
