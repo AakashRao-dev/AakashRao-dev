@@ -36,9 +36,6 @@
 
 ![Metrics](/github-metrics.svg)
 
-<br/>
-<br/>
-
 ## Connect with me:
 
 <p align="left">
