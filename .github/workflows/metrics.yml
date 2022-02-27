@@ -26,30 +26,29 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+          plugin_discussions: yes
+          plugin_discussions_categories: yes
+          plugin_gists: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
-          plugin_languages_aliases: JS
+          plugin_languages_aliases: JS TS
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 0
+          plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
           plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_size: 25
+          plugin_people_limit: 0
+          plugin_people_size: 30
           plugin_people_types: followers, following
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: starred
-          plugin_topics_sort: stars
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: current
