@@ -25,6 +25,7 @@ jobs:
           user: aakashrao-dev
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
           config_timezone: Asia/Calcutta
           plugin_discussions: yes
           plugin_discussions_categories: yes
