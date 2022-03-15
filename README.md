@@ -9,6 +9,10 @@
 - 📫 How to reach me **aakash.codes02@gmail.com**
 - ⚡ Fun fact **HTML is a programming Language. Don't trust me go and check on google.**
 
+<br/>
+
+<a href="https://app.daily.dev/AakashRao02"><img src="https://api.daily.dev/devcards/c5442e77eb7442feb7f7bf83f5abeea7.png?r=h66" align="right" width="300" style="margin-left: 120px" alt="Aakash Rao's Dev Card"/></a>
+
 ## 🚀 Languages and Tools:
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
