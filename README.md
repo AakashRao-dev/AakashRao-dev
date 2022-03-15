@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate Frontend Developer from India <img src="https://img.icons8.com/color/344/india.png" width="20px" alt="India Flag">.</h3>
 
 
-<a href="https://app.daily.dev/aakash_codes"><img src="https://api.daily.dev/devcards/c5442e77eb7442feb7f7bf83f5abeea7.png?r=62x" width="250px" align="right" alt="Aakash Rao's Dev Card"/></a>
+<a href="https://app.daily.dev/aakash_codes"><img src="https://github.com/AakashRao-dev/AakashRao-dev/blob/main/devcard.svg" width="250px" align="right" alt="Aakash Rao's Dev Card"/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -47,10 +47,10 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/aakashrao-dev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="28px"/></a>
-<a href = "https://twitter.com/aakash_codes"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="28px"/></a>
-<a href = "https://www.instagram.com/aakash_codes/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="28px"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="28px"/></a>
+<a href = "https://www.linkedin.com/in/aakashrao-dev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
+<a href = "https://twitter.com/aakash_codes"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
+<a href = "https://www.instagram.com/aakash_codes/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="30px"/></a>
+<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="30px"/></a>
 
 </p>
 
