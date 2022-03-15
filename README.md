@@ -2,6 +2,11 @@
 
 <h3 align="center">I'm a passionate Frontend Developer from India <img src="https://img.icons8.com/color/344/india.png" width="20px" alt="India Flag">.</h3>
 
+
+<a href="https://app.daily.dev/AakashRao02"><img src="https://api.daily.dev/devcards/c5442e77eb7442feb7f7bf83f5abeea7.png?r=h66" align="right" width="250" style="float:left; padding-right:10px" alt="Aakash Rao's Dev Card"/></a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[My Youtube Channel](https://www.youtube.com/channel/UCvBem_OJp_qTOtIPYHA-VXQ)**
@@ -9,22 +14,21 @@
 - 📫 How to reach me **aakash.codes02@gmail.com**
 - ⚡ Fun fact **HTML is a programming Language. Don't trust me go and check on google.**
 
-<br/>
 
-<a href="https://app.daily.dev/AakashRao02"><img src="https://api.daily.dev/devcards/c5442e77eb7442feb7f7bf83f5abeea7.png?r=h66" align="right" width="300" style="margin-left: 120px" alt="Aakash Rao's Dev Card"/></a>
 
 ## 🚀 Languages and Tools:
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 <br/>
 
+
+## 📊 My Github Stats
+
 <p align="center">
     <a href="https://github.com/AakashRao-dev">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AakashRao-Dev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/AakashRao-dev"><img alt="Aakashrao-dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AakashRao-Dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
