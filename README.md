@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate Frontend Developer from India <img src="https://img.icons8.com/color/344/india.png" width="20px" alt="India Flag">.</h3>
 
 
-<a href="https://app.daily.dev/AakashRao02"><img src="https://api.daily.dev/devcards/c5442e77eb7442feb7f7bf83f5abeea7.png?r=h66" align="right" width="250" style="float:left; padding-right:10px" alt="Aakash Rao's Dev Card"/></a>
+<a href="https://app.daily.dev/aakash_codes"><img src="https://api.daily.dev/devcards/c5442e77eb7442feb7f7bf83f5abeea7.png?r=62x" width="250px" align="right" alt="Aakash Rao's Dev Card"/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
