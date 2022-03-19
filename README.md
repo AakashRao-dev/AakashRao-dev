@@ -53,5 +53,8 @@
 
 ## ❤ Views and Followers
 
-![](https://komarev.com/ghpvc/?username=Aakashrao-dev&label=PROFILE+VIEWS)
-<a href="https://github.com/AakashRao-Dev?tab=followers"><img src="https://img.shields.io/github/followers/AakashRao-dev?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://www.twitter.com/aakash_codes" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/aakash_codes?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/>
+<a href="https://www.github.com/aakashrao-dev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/aakashrao-dev?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+
