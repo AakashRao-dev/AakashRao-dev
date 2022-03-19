@@ -54,7 +54,7 @@
 ## ❤ Views and Followers
 
 <a href="https://www.twitter.com/aakash_codes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/aakash_codes?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/>
+src="https://img.shields.io/twitter/follow/aakash_codes?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/> &nbsp;&nbsp;
 <a href="https://www.github.com/aakashrao-dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aakashrao-dev?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
