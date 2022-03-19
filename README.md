@@ -9,11 +9,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[My Youtube Channel](https://www.youtube.com/channel/UCvBem_OJp_qTOtIPYHA-VXQ)**
-- 🌱 I’m currently learning **JavaScript Language.**
-- 📫 How to reach me **aakash.codes02@gmail.com**
-- ⚡ Fun fact **HTML is a programming Language. Don't trust me go and check on google.**
-
+- I’m interested in and Web Development & Android Development.
+- I’m currently learning JavaScript for the next six months while also building projects
+- In my free time I like to; read books, write some code and try to debug some other person's code from the community.
+- I'm a community guy who loves to connect with other fellow developers.
 
 
 ## 🚀 Languages and Tools:
