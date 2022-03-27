@@ -46,7 +46,7 @@
 <a href = "https://www.linkedin.com/in/aakashrao-dev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
 <a href = "https://twitter.com/aakash_codes"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
 <a href = "https://www.instagram.com/aakash_codes/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="30px"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="30px"/></a>
+<a href = "https://www.youtube.com/channel/UCvBem_OJp_qTOtIPYHA-VXQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="30px"/></a>
 
 </p>
 
