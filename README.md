@@ -9,9 +9,9 @@
 
 ## 🙋‍♂️ About Me
 
-- I’m interested in and Web Development & Android Development.
-- I’m currently learning JavaScript for the next six months while also building projects
-- In my free time I like to; read books, write some code and try to debug some other person's code from the community.
+- I’m interested in Web Development & Android Development.
+- I’m currently learning React & building projects for portfolio
+- In my free time I like to read books, write some code and try to debug some other person's code from the community.
 - I'm a community guy who loves to connect with other fellow developers.
 
 
