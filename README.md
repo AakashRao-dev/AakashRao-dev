@@ -9,10 +9,10 @@
 
 ## 🙋‍♂️ About Me
 
-- I’m interested in Web Development & Android Development.
-- I’m currently learning React & building projects for portfolio
-- In my free time I like to read books, write some code and try to debug some other person's code from the community.
-- I'm a community guy who loves to connect with other fellow developers.
+- I’m a Frontend Developer and designer love to create user interfaces on the web.
+- Currently learning React with TailwindCSS.
+- I believe in sharing and learning in public with the community.
+- I also love to read books. Some of my favourite categories are Psychology & Finance.
 
 
 ## 🚀 Languages and Tools:
