@@ -2,6 +2,8 @@
 
 [![@aakashraodev's Holopin board](https://holopin.me/aakashraodev)](https://holopin.io/@aakashraodev)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&size=24&duration=3000&pause=1000&color=E36D1C&width=435&lines=I'm+a+Frontend+Web+Developer;and+Freelance+Technial+Writer.;Currently+working+on+leveling+up+my;Frontend+and+UI+design+skills.)](https://git.io/typing-svg)
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aakash_codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-codes) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@aakash-rao) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/aakash_codes) [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Aakash_codes)
 
 I'm a Software Engineering UnderGrad and a Frontend Web Developer. Currently Learning to Design, and working as a Freelance Technical writer from India. ☕🎨🧑‍💻
@@ -23,6 +25,8 @@ I write articles on [Hashnode](), [Medium]() & [Dev]()
 ## 🔧 Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,react,nextjs,vite,vscode,svg,markdown)](https://skillicons.dev)
+
+## 🔧 Some of my best projects
 
 ---
 
