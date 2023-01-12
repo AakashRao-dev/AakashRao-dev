@@ -12,8 +12,6 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 
 <!-- Going to come back to this after I built my blog page for crafting my learning journey -->
 
-🎚️ [My Design Journey]() &nbsp;&nbsp;&nbsp;&nbsp; • 📦 [Personal Challenges]()
-
 - 🧑‍💻 Frontend Web Developer (CSS❤️ >>> JS🚀)
 - 💼 Technical writer @Lamdatest
 - 💜 Learning UX Design
