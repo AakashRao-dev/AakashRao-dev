@@ -40,6 +40,40 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 - [JavaScript based Automation testing Frameworks](https://testvox.com/javascript-based-automation-testing-frameworks/)
 - [Test Automation with Python](https://testvox.com/test-automation-with-python/)
 <!-- BLOG-POST-LIST:END -->
+
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+  <a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><img src="https://www.lambdatest.com/blog/wp-content/uploads/2022/10/image14-25.png" alt="How to build Schedular Interface with CSS Grid" width="250px" align="left" /></a>
+
+  <a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><strong>How to build Schedular Interface with CSS Grid</strong></a>
+
+  <div><strong>12 Oct 2022</strong></div>
+
+  <br/>Before begining this blog on building a CSS grid scheduler, let’s understand the significance of a CSS grid. During the past few years, the Internet has witnessed a rapid shift in how content...
+</p> <br/> <br/>
+
+<p align="left">
+  <a href="https://testvox.com/javascript-based-automation-testing-frameworks/" title="JavaScript based automation testing frameworks"><img src="https://testvox.com/wp-content/uploads/2023/01/Javascript_based_automation_framework1_bnr_image.webp" alt="JavaScript based automation testing frameworks" width="250px" align="left" /></a>
+
+  <a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><strong>JavaScript based automation testing frameworks</strong></a>
+
+  <div><strong>10 Jan 2023</strong></div>
+
+  <br/>We are moving closer to an automated era. Every company, regardless of its size, aims to use automation testing as successfully as possible throughout its release cycles. Automation testing is the execution of tests using software or tools rather than a human...
+</p> <br/> <br/>
+
+<p align="left">
+  <a href="https://testvox.com/test-automation-with-python/" title="Test Automation with Python"><img src="https://testvox.com/wp-content/uploads/2023/01/Test-Automation-with-python-1.webp" alt="Automation testing with Python" width="250px" align="left" /></a>
+
+  <a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><strong>Automation Testing with Python</strong></a>
+
+  <div><strong>10 Jan 2023</strong></div>
+
+  <br/>Python is one of the programming languages that doesn’t need any introduction! It is one of the most preferred languages when it comes to projects that involve Artificial intelligence (AI), Machine Learning (ML), and more...
+</p> <br/> <br/>
+
+<!-- HASHNODE_BLOG:END -->
+
 </details>
 
 
