@@ -37,7 +37,7 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 
 <!-- BLOG-POST-LIST:START -->
 <p align="left">
-  <a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><img src="https://www.lambdatest.com/blog/wp-content/uploads/2022/10/image14-25.png" alt="How to build Schedular Interface with CSS Grid" width="250px" align="left" /></a>
+  <a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><img src="https://www.lambdatest.com/blog/wp-content/uploads/2022/10/image14-25.png" alt="How to build Schedular Interface with CSS Grid" width="300px" align="left" /></a>
 
   <a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><strong>How to build Schedular Interface with CSS Grid</strong></a>
 
@@ -47,7 +47,7 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 </p> <br/> <br/>
 
 <p align="left">
-  <a href="https://testvox.com/javascript-based-automation-testing-frameworks/" title="JavaScript based automation testing frameworks"><img src="https://testvox.com/wp-content/uploads/2023/01/Javascript_based_automation_framework1_bnr_image.webp" alt="JavaScript based automation testing frameworks" width="250px" align="left" /></a>
+  <a href="https://testvox.com/javascript-based-automation-testing-frameworks/" title="JavaScript based automation testing frameworks"><img src="https://testvox.com/wp-content/uploads/2023/01/Javascript_based_automation_framework1_bnr_image.webp" alt="JavaScript based automation testing frameworks" width="300px" align="left" /></a>
 
   <a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><strong>JavaScript based automation testing frameworks</strong></a>
 
@@ -57,7 +57,7 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 </p> <br/> <br/>
 
 <p align="left">
-  <a href="https://testvox.com/test-automation-with-python/" title="Test Automation with Python"><img src="https://testvox.com/wp-content/uploads/2023/01/Test-Automation-with-python-1.webp" alt="Automation testing with Python" width="250px" align="left" /></a>
+  <a href="https://testvox.com/test-automation-with-python/" title="Test Automation with Python"><img src="https://testvox.com/wp-content/uploads/2023/01/Test-Automation-with-python-1.webp" alt="Automation testing with Python" width="300px" align="left" /></a>
 
   <a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><strong>Automation Testing with Python</strong></a>
 
