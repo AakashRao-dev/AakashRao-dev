@@ -66,6 +66,7 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
    </a>
 </p>
 
+<p align="center">
 <a href="https://github.com/AakashRao-dev">
         <img alt="Aakash Rao's streak" src="https://readme-stats.warengonzaga.com/api?username=Aakashrao-dev&show_icons=true&count_private=true" width="300px"/>
 </a>
@@ -73,6 +74,7 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 <a href="https://github.com/AakashRao-dev">
         <img alt="Aakash Rao's streak" src="https://readme-stats.warengonzaga.com/api/top-langs?username=Aakashrao-dev&layout=compact" width="300px"/>
 </a>
+</p>
 <!--END_SECTION:activity-->
 </details>
 
