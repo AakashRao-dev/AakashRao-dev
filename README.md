@@ -32,16 +32,10 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 
 ---
 
-<details>
+<details open>
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build Grid Scheduler Interface](https://www.lambdatest.com/blog/css-grid-scheduler/)
-- [JavaScript based Automation testing Frameworks](https://testvox.com/javascript-based-automation-testing-frameworks/)
-- [Test Automation with Python](https://testvox.com/test-automation-with-python/)
-<!-- BLOG-POST-LIST:END -->
-
-<!-- HASHNODE_BLOG:START -->
 <p align="left">
   <a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><img src="https://www.lambdatest.com/blog/wp-content/uploads/2022/10/image14-25.png" alt="How to build Schedular Interface with CSS Grid" width="250px" align="left" /></a>
 
@@ -72,8 +66,7 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
   <br/>Python is one of the programming languages that doesn’t need any introduction! It is one of the most preferred languages when it comes to projects that involve Artificial intelligence (AI), Machine Learning (ML), and more...
 </p> <br/> <br/>
 
-<!-- HASHNODE_BLOG:END -->
-
+<!-- BLOG-POST-LIST:END -->
 </details>
 
 
