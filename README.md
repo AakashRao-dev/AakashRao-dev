@@ -111,7 +111,7 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 [![Phonk](https://img.shields.io/badge/Phonk%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt) [![Coding Music](https://img.shields.io/badge/Coding%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j)
 
 
-[![Spotify](https://my-readme-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=d8d8d8)](https://open.spotify.com/user/31wz5ygbe22rsao7uns2lz2gd3lm)
+[![Spotify](https://my-readme-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=777777)](https://open.spotify.com/user/31wz5ygbe22rsao7uns2lz2gd3lm)
 
 ---
 
