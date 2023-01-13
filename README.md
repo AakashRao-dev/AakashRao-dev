@@ -49,7 +49,7 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 <p align="left">
   <a href="https://testvox.com/javascript-based-automation-testing-frameworks/" title="JavaScript based automation testing frameworks"><img src="https://testvox.com/wp-content/uploads/2023/01/Javascript_based_automation_framework1_bnr_image.webp" alt="JavaScript based automation testing frameworks" width="300px" align="left" /></a>
 
-  <a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><strong>JavaScript based automation testing frameworks</strong></a>
+  <a href="https://testvox.com/javascript-based-automation-testing-frameworks/" title="JavaScript based automation testing frameworks"><strong>JavaScript based automation testing frameworks</strong></a>
 
   <div><strong>10 Jan 2023</strong></div>
 
@@ -57,13 +57,23 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 </p> <br/> <br/>
 
 <p align="left">
-  <a href="https://testvox.com/test-automation-with-python/" title="Test Automation with Python"><img src="https://testvox.com/wp-content/uploads/2023/01/Test-Automation-with-python-1.webp" alt="Automation testing with Python" width="300px" align="left" /></a>
+  <a href="https://testvox.com/test-automation-with-python/" title="Automation testing with Python"><img src="https://testvox.com/wp-content/uploads/2023/01/Test-Automation-with-python-1.webp" alt="Automation testing with Python" width="300px" align="left" /></a>
 
-  <a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><strong>Automation Testing with Python</strong></a>
+  <a href="https://testvox.com/test-automation-with-python/" title="Automation testing with Python"><strong>Automation Testing with Python</strong></a>
 
   <div><strong>10 Jan 2023</strong></div>
 
   <br/>Python is one of the programming languages that doesn’t need any introduction! It is one of the most preferred languages when it comes to projects that involve Artificial intelligence (AI), Machine Learning (ML), and more...
+</p> <br/> <br/>
+
+<p align="left">
+  <a href="https://testvox.com/agile-testing-the-role-of-qa-in-the-agile-world/" title="Agile Testing: The role of QA in the Agile world"><img src="https://testvox.com/wp-content/uploads/2023/01/Agile-testing-role-of-QA1.webp" alt="Automation testing with Python" width="300px" align="left" /></a>
+
+  <a href="https://testvox.com/agile-testing-the-role-of-qa-in-the-agile-world/" title="Agile Testing: The role of QA in the Agile world"><strong>Agile Testing: The role of QA in the Agile world</strong></a>
+
+  <div><strong>13 Jan 2023</strong></div>
+
+  <br/>In today’s fast-paced moving landscape of Agile development, speed and flexibility are key. But in the rush to deliver, QA is often overlooked. QA is essential for assuring a successful product and the mantra of “test early, test often” is essential for ensuring a successful final end product...
 </p> <br/> <br/>
 
 <!-- BLOG-POST-LIST:END -->
