@@ -107,7 +107,7 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 </a>
 
 <a href="https://github.com/AakashRao-dev">
-        <img alt="Aakash Rao's streak" src="https://readme-stats.warengonzaga.com/api/top-langs?username=Aakashrao-dev&layout=compact" width="350px"/>
+        <img alt="Aakash Rao's streak" src="https://readme-stats.warengonzaga.com/api/top-langs?username=Aakashrao-dev&layout=compact" width="330px"/>
 </a>
 </p>
 <!--END_SECTION:activity-->
