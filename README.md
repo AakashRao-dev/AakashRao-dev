@@ -1,6 +1,8 @@
 # Hello there, I'm Aakash Rao (☕🧑‍💻✍️)
 
-[![@aakashraodev's Holopin board](https://holopin.me/aakashraodev)](https://holopin.io/@aakashraodev)
+<!-- [![@aakashraodev's Holopin board](https://holopin.me/aakashraodev)](https://holopin.io/@aakashraodev) -->
+
+<img src="./Banner.gif" alt="banner image" style="border-radius: 10px;" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&size=24&duration=3000&pause=1000&color=E36D1C&width=435&lines=I'm+a+Frontend+Web+Developer;and+Freelance+Technial+Writer.;Currently+working+on+leveling+up+my;Frontend+and+UI+design+skills.)](https://git.io/typing-svg)
 
@@ -24,11 +26,11 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,react,nextjs,vite,vscode,svg,markdown)](https://skillicons.dev)
 
-## 🔧 Some of my best projects
+<!-- ## 🔧 Some of my best projects
 
 - First project landing soon...
 - Second project landing soon...
-- Third project landing soon...
+- Third project landing soon... -->
 
 ---
 
@@ -39,57 +41,60 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 <p align="left">
   <a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><img src="https://www.lambdatest.com/blog/wp-content/uploads/2022/10/image14-25.png" alt="How to build Schedular Interface with CSS Grid" width="300px" align="left" /></a>
 
-  <a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><strong>How to build Schedular Interface with CSS Grid</strong></a>
+<a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><strong>How to build Schedular Interface with CSS Grid</strong></a>
 
   <div><strong>12 Oct 2022</strong></div>
 
-  <br/>Before begining this blog on building a CSS grid scheduler, let’s understand the significance of a CSS grid. During the past few years, the Internet has witnessed a rapid shift in how content...
+<br/>Before begining this blog on building a CSS grid scheduler, let’s understand the significance of a CSS grid. During the past few years, the Internet has witnessed a rapid shift in how content...
+
 </p> <br/> <br/>
 
 <p align="left">
   <a href="https://testvox.com/javascript-based-automation-testing-frameworks/" title="JavaScript based automation testing frameworks"><img src="https://testvox.com/wp-content/uploads/2023/01/Javascript_based_automation_framework1_bnr_image.webp" alt="JavaScript based automation testing frameworks" width="300px" align="left" /></a>
 
-  <a href="https://testvox.com/javascript-based-automation-testing-frameworks/" title="JavaScript based automation testing frameworks"><strong>JavaScript based automation testing frameworks</strong></a>
+<a href="https://testvox.com/javascript-based-automation-testing-frameworks/" title="JavaScript based automation testing frameworks"><strong>JavaScript based automation testing frameworks</strong></a>
 
   <div><strong>10 Jan 2023</strong></div>
 
-  <br/>We are moving closer to an automated era. Every company, regardless of its size, aims to use automation testing as successfully as possible throughout its release cycles. Automation testing is the execution of tests using software or tools rather than a human...
+<br/>We are moving closer to an automated era. Every company, regardless of its size, aims to use automation testing as successfully as possible throughout its release cycles. Automation testing is the execution of tests using software or tools rather than a human...
+
 </p> <br/> <br/>
 
 <p align="left">
   <a href="https://testvox.com/test-automation-with-python/" title="Automation testing with Python"><img src="https://testvox.com/wp-content/uploads/2023/01/Test-Automation-with-python-1.webp" alt="Automation testing with Python" width="300px" align="left" /></a>
 
-  <a href="https://testvox.com/test-automation-with-python/" title="Automation testing with Python"><strong>Automation Testing with Python</strong></a>
+<a href="https://testvox.com/test-automation-with-python/" title="Automation testing with Python"><strong>Automation Testing with Python</strong></a>
 
   <div><strong>10 Jan 2023</strong></div>
 
-  <br/>Python is one of the programming languages that doesn’t need any introduction! It is one of the most preferred languages when it comes to projects that involve Artificial intelligence (AI), Machine Learning (ML), and more...
+<br/>Python is one of the programming languages that doesn’t need any introduction! It is one of the most preferred languages when it comes to projects that involve Artificial intelligence (AI), Machine Learning (ML), and more...
+
 </p> <br/> <br/>
 
 <p align="left">
   <a href="https://testvox.com/agile-testing-the-role-of-qa-in-the-agile-world/" title="Agile Testing: The role of QA in the Agile world"><img src="https://testvox.com/wp-content/uploads/2023/01/Agile-testing-role-of-QA1.webp" alt="Automation testing with Python" width="300px" align="left" /></a>
 
-  <a href="https://testvox.com/agile-testing-the-role-of-qa-in-the-agile-world/" title="Agile Testing: The role of QA in the Agile world"><strong>Agile Testing: The role of QA in the Agile world</strong></a>
+<a href="https://testvox.com/agile-testing-the-role-of-qa-in-the-agile-world/" title="Agile Testing: The role of QA in the Agile world"><strong>Agile Testing: The role of QA in the Agile world</strong></a>
 
   <div><strong>13 Jan 2023</strong></div>
 
-  <br/>In today’s fast-paced moving landscape of Agile development, speed and flexibility are key. But in the rush to deliver, QA is often overlooked. QA is essential for assuring a successful product and the mantra of “test early, test often” is essential for ensuring a successful final end product...
+<br/>In today’s fast-paced moving landscape of Agile development, speed and flexibility are key. But in the rush to deliver, QA is often overlooked. QA is essential for assuring a successful product and the mantra of “test early, test often” is essential for ensuring a successful final end product...
+
 </p> <br/> <br/>
 
 <!-- BLOG-POST-LIST:END -->
 </details>
 
-
 <details>
     <summary>&#9935 <b>Projects I'm working on</b></summary><br/>
 
 <!--START_SECTION:activity-->
+
 - [Link to the first project]()
 - [Link to the Second project]()
 - [Link to the Third project]()
-<!--END_SECTION:activity-->
-</details>
-
+  <!--END_SECTION:activity-->
+  </details>
 
 <details>
     <summary>&#128187 <b>GitHub Stats</b></summary><br/>
@@ -113,13 +118,11 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 <!--END_SECTION:activity-->
 </details>
 
-
 ---
 
 ## 🎧 Spotify Playing
 
 [![Phonk](https://img.shields.io/badge/Phonk%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DWWY64wDtewQt) [![Coding Music](https://img.shields.io/badge/Coding%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j)
-
 
 [![Spotify](https://my-readme-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=777777)](https://open.spotify.com/user/31wz5ygbe22rsao7uns2lz2gd3lm)
 
