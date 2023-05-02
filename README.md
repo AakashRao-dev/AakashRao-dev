@@ -1,10 +1,8 @@
-# Hello there, I'm Aakash Rao (☕🧑‍💻✍️)
+# Sup! I'm Aakash (🧑‍💻x✍️)
 
 <!-- [![@aakashraodev's Holopin board](https://holopin.me/aakashraodev)](https://holopin.io/@aakashraodev) -->
 
-<img src="./Banner.gif" alt="banner image" style="border-radius: 10px;" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&size=24&duration=3000&pause=1000&color=E36D1C&width=435&lines=I'm+a+Frontend+Web+Developer;and+Freelance+Technial+Writer.;Currently+working+on+leveling+up+my;Frontend+and+UI+design+skills.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=CD3877&center=true&width=600&height=100&lines=A+Frontend+Web+Developer;and+a+Techincal+Writer)](https://git.io/typing-svg)
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aakash_codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-codes) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white)](https://www.medium.com/@aakash_codes) [![Hahsnode](https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@Aakash-codes) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/aakash_codes) [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Aakash_codes)
 
@@ -14,17 +12,10 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 
 <!-- Going to come back to this after I built my blog page for crafting my learning journey -->
 
-- 🧑‍💻 Frontend Web Developer (CSS❤️ >>> JS🚀)
-- 💼 Technical writer @Lamdatest
-- 💜 Learning UX Design
+- 🧑‍💻 Frontend Web Developer (CSS❤️)
+- 💼 Technical writer @Lambdatest
 - 🤝 Love to play with CSS at free time
-- ☕ Coffee loves me so do I.
 - 🎯 2023 is for hardowork >>> Dedication >>> Discipline.
-- 💡 [Learn more about me](https://aakash_codes.bio.link/).
-
-## 🔧 Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,react,nextjs,vite,vscode,svg,markdown)](https://skillicons.dev)
 
 <!-- ## 🔧 Some of my best projects
 
@@ -39,80 +30,75 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 
 <!-- BLOG-POST-LIST:START -->
 <p align="left">
-  <a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><img src="https://www.lambdatest.com/blog/wp-content/uploads/2022/10/image14-25.png" alt="How to build Schedular Interface with CSS Grid" width="300px" align="left" /></a>
+  <a href="https://www.lambdatest.com/blog/css-spacing-tutorial/" title="How To Use CSS Spacing: Getting Started Guide"><img src="https://www.lambdatest.com/blog/wp-content/uploads/2023/02/How2520To2520Use2520CSS2520Spacing.png" alt="How to build Schedular Interface with CSS Grid" width="300px" align="left" /></a>
 
-<a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How to build Schedular Interface with CSS Grid"><strong>How to build Schedular Interface with CSS Grid</strong></a>
+<a href="https://www.lambdatest.com/blog/css-grid-scheduler/" title="How To Use CSS Spacing: Getting Started Guide"><strong>How To Use CSS Spacing: Getting Started Guide</strong></a>
 
-  <div><strong>12 Oct 2022</strong></div>
+  <div><strong>Feb 6 2023</strong></div>
 
-<br/>Before begining this blog on building a CSS grid scheduler, let’s understand the significance of a CSS grid. During the past few years, the Internet has witnessed a rapid shift in how content...
-
-</p> <br/> <br/>
-
-<p align="left">
-  <a href="https://testvox.com/javascript-based-automation-testing-frameworks/" title="JavaScript based automation testing frameworks"><img src="https://testvox.com/wp-content/uploads/2023/01/Javascript_based_automation_framework1_bnr_image.webp" alt="JavaScript based automation testing frameworks" width="300px" align="left" /></a>
-
-<a href="https://testvox.com/javascript-based-automation-testing-frameworks/" title="JavaScript based automation testing frameworks"><strong>JavaScript based automation testing frameworks</strong></a>
-
-  <div><strong>10 Jan 2023</strong></div>
-
-<br/>We are moving closer to an automated era. Every company, regardless of its size, aims to use automation testing as successfully as possible throughout its release cycles. Automation testing is the execution of tests using software or tools rather than a human...
+<br/>Suppose you are accessing the blog to read about how to add internal spacing with CSS. The first thing you will note about the page is the layout and the structure, which helps and navigates us with the blog to make it easy to access...
 
 </p> <br/> <br/>
 
 <p align="left">
-  <a href="https://testvox.com/test-automation-with-python/" title="Automation testing with Python"><img src="https://testvox.com/wp-content/uploads/2023/01/Test-Automation-with-python-1.webp" alt="Automation testing with Python" width="300px" align="left" /></a>
+  <a href="https://testvox.com/chatgpt-the-ai-powered-game-changer-for-quality-assurance-professionals/" title="ChatGPT: The AI-Powered Game-Changer for Quality Assurance Professionals"><img src="https://testvox.com/wp-content/uploads/2023/02/ChatGPT-QA-companion1-1-1.jpg" alt="ChatGPT: The AI-Powered Game-Changer for Quality Assurance Professionals" width="300px" align="left" /></a>
 
-<a href="https://testvox.com/test-automation-with-python/" title="Automation testing with Python"><strong>Automation Testing with Python</strong></a>
+<a href="https://testvox.com/javascript-based-automation-testing-frameworks/" title="ChatGPT: The AI-Powered Game-Changer for Quality Assurance Professionals"><strong>ChatGPT: The AI-Powered Game-Changer for Quality Assurance Professionals</strong></a>
 
-  <div><strong>10 Jan 2023</strong></div>
+  <div><strong>22 Feb 2023</strong></div>
 
-<br/>Python is one of the programming languages that doesn’t need any introduction! It is one of the most preferred languages when it comes to projects that involve Artificial intelligence (AI), Machine Learning (ML), and more...
+<br/>What if you had a strong ally who could support you with all of your QA requirements? That’s where ChatGPT for Software Tester comes in!...
 
 </p> <br/> <br/>
 
 <p align="left">
-  <a href="https://testvox.com/agile-testing-the-role-of-qa-in-the-agile-world/" title="Agile Testing: The role of QA in the Agile world"><img src="https://testvox.com/wp-content/uploads/2023/01/Agile-testing-role-of-QA1.webp" alt="Automation testing with Python" width="300px" align="left" /></a>
+  <a href="https://testvox.com/testing-fintech-apps-challenges-and-best-practices/" title="Automation testing with Python"><img src="https://testvox.com/wp-content/uploads/2023/01/Test-Automation-with-python-1.webp" alt="Testing Fintech Apps: Challenges and Best Practices
+" width="300px" align="left" /></a>
 
-<a href="https://testvox.com/agile-testing-the-role-of-qa-in-the-agile-world/" title="Agile Testing: The role of QA in the Agile world"><strong>Agile Testing: The role of QA in the Agile world</strong></a>
+<a href="https://testvox.com/test-automation-with-python/" title="Testing Fintech Apps: Challenges and Best Practices
+"><strong>Testing Fintech Apps: Challenges and Best Practices
+</strong></a>
 
-  <div><strong>13 Jan 2023</strong></div>
+  <div><strong>10 March 2023</strong></div>
 
-<br/>In today’s fast-paced moving landscape of Agile development, speed and flexibility are key. But in the rush to deliver, QA is often overlooked. QA is essential for assuring a successful product and the mantra of “test early, test often” is essential for ensuring a successful final end product...
+<br/>With rising smartphone utilization and the demand for influential financial services, the fintech sector has undergone rapid growth in recent years. A lot of benefits are offered by fintech apps, such as easy access to financial data, quick and secure payments, and streamlined investing options...
+
+</p> <br/> <br/>
+
+<p align="left">
+  <a href="https://testvox.com/a-guide-to-mobile-application-testing-best-practices-challenges/" title="A Guide to Mobile Application Testing: Best Practices & Challenges
+"><img src="https://testvox.com/wp-content/uploads/2023/03/A-Guide-to-Mobile-Application-Testing1.jpg" alt="A Guide to Mobile Application Testing: Best Practices & Challenges
+" width="300px" align="left" /></a>
+
+<a href="https://testvox.com/agile-testing-the-role-of-qa-in-the-agile-world/" title="Agile Testing: The role of QA in the Agile world"><strong>A Guide to Mobile Application Testing: Best Practices & Challenges
+</strong></a>
+
+  <div><strong>1 March 2023</strong></div>
+
+<br/>We are living in the age of mobile marvels, where the use of mobile devices has become universal, and almost every person is using a smartphone or a tablet to stay connected, entertained, and informed. With the rise in popularity of these mobile devices, mobile applications have become an essential part of our lives....
 
 </p> <br/> <br/>
 
 <!-- BLOG-POST-LIST:END -->
 </details>
 
-<details>
-    <summary>&#9935 <b>Projects I'm working on</b></summary><br/>
-
-<!--START_SECTION:activity-->
-
-- [Link to the first project]()
-- [Link to the Second project]()
-- [Link to the Third project]()
-  <!--END_SECTION:activity-->
-  </details>
-
-<details>
-    <summary>&#128187 <b>GitHub Stats</b></summary><br/>
+<details open>
+    <summary><b>📊 GitHub Stats</b></summary><br/>
 
 <!--START_SECTION:activity-->
 <p align="center">
    <a href="https://github.com/AakashRao-dev">
-        <img alt="Aakash Rao's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AakashRao-Dev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img alt="Aakash Rao's streak" src="https://streak-stats.demolab.com?user=AakashRao-dev&theme=radical&border_radius=2.5"/>
    </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/AakashRao-dev">
-        <img alt="Aakash Rao's streak" src="https://readme-stats.warengonzaga.com/api?username=Aakashrao-dev&show_icons=true&count_private=true" width="400px"/>
+        <img alt="Aakash Rao's streak" src="https://readme-stats.warengonzaga.com/api?username=Aakashrao-dev&show_icons=true&count_private=true&theme=radical" width="400px"/>
 </a>
 
 <a href="https://github.com/AakashRao-dev">
-        <img alt="Aakash Rao's streak" src="https://readme-stats.warengonzaga.com/api/top-langs?username=Aakashrao-dev&layout=compact" width="330px"/>
+        <img alt="Aakash Rao's streak" src="https://readme-stats.warengonzaga.com/api/top-langs?username=Aakashrao-dev&layout=compact&theme=radical" width="330px"/>
 </a>
 </p>
 <!--END_SECTION:activity-->
