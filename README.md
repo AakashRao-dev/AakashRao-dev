@@ -34,17 +34,6 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 </p> <br/> <br/>
 
 <p align="left">
-  <a href="https://www.lambdatest.com/blog/css-spacing-tutorial/" title="How To Use CSS Spacing: Getting Started Guide"><img src="https://www.lambdatest.com/blog/wp-content/uploads/2023/02/How2520To2520Use2520CSS2520Spacing.png" alt="How to build Schedular Interface with CSS Grid" width="300px" align="left" /></a>
-
-<a href="https://www.lambdatest.com/blog/css-spacing-tutorial/" title="How To Use CSS Spacing: Getting Started Guide"><strong>How To Use CSS Spacing: Getting Started Guide</strong></a>
-
-<div><strong>Feb 6 2023</strong></div>
-
-<br/>Suppose you are accessing the blog to read about how to add internal spacing with CSS. The first thing you will note about the page is the layout and the structure, which helps and navigates us with the blog to make it easy to access...
-
-</p> <br/> <br/>
-
-<p align="left">
 <a href="https://testvox.com/chatgpt-the-ai-powered-game-changer-for-quality-assurance-professionals/" title="ChatGPT: The AI-Powered Game-Changer for Quality Assurance Professionals"><img src="https://testvox.com/wp-content/uploads/2023/02/ChatGPT-QA-companion1-1-1.jpg" alt="ChatGPT: The AI-Powered Game-Changer for Quality Assurance Professionals" width="300px" align="left" /></a>
 
 <a href="https://testvox.com/chatgpt-the-ai-powered-game-changer-for-quality-assurance-professionals/" title="ChatGPT: The AI-Powered Game-Changer for Quality Assurance Professionals"><strong>ChatGPT: The AI-Powered Game-Changer for Quality Assurance Professionals</strong></a>
