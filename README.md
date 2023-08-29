@@ -60,7 +60,7 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 
 <br>
 
-<details>
+<details open>
     <summary><b>📊 GitHub Stats</b></summary><br/>
 
 <!--START_SECTION:activity-->
