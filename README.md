@@ -23,7 +23,7 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 
 <!-- BLOG-POST-LIST:START -->
 <p align="left">
-<a href="https://www.zipy.ai/blog/using-reacts-useeffect-hook-with-lifecyle-methods" title="A Guide to using useEffect Hook for React Lifecycle Methods"><img src="https://global-uploads.webflow.com/61ade8b25c29d61e883b12a4/64341e459a74bcf3ca4ece7e_A-Guide-to-using-useEffect-Hook-for-React-Lifecycle-Methods-p-800.jpg" alt="A Guide to using useEffect Hook for React Lifecycle Methods" width="270px" align="left" /></a>
+<a href="https://www.zipy.ai/blog/using-reacts-useeffect-hook-with-lifecyle-methods" title="A Guide to using useEffect Hook for React Lifecycle Methods"><img src="https://global-uploads.webflow.com/61ade8b25c29d61e883b12a4/64341e459a74bcf3ca4ece7e_A-Guide-to-using-useEffect-Hook-for-React-Lifecycle-Methods-p-800.jpg" alt="A Guide to using useEffect Hook for React Lifecycle Methods" width="290px" align="left" /></a>
 
 <a href="https://www.zipy.ai/blog/using-reacts-useeffect-hook-with-lifecyle-methods" title="A Guide to using useEffect Hook for React Lifecycle Methods"><strong>A Guide to using useEffect Hook for React Lifecycle Methods</strong></a>
 
