@@ -23,6 +23,17 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 
 <!-- BLOG-POST-LIST:START -->
 <p align="left">
+<a href="https://www.zipy.ai/blog/using-reacts-useeffect-hook-with-lifecyle-methods" title="A Guide to using useEffect Hook for React Lifecycle Methods"><img src="https://global-uploads.webflow.com/61ade8b25c29d61e883b12a4/64341e459a74bcf3ca4ece7e_A-Guide-to-using-useEffect-Hook-for-React-Lifecycle-Methods-p-800.jpg" alt="A Guide to using useEffect Hook for React Lifecycle Methods" width="300px" align="left" /></a>
+
+<a href="https://www.zipy.ai/blog/using-reacts-useeffect-hook-with-lifecyle-methods" title="A Guide to using useEffect Hook for React Lifecycle Methods"><strong>A Guide to using useEffect Hook for React Lifecycle Methods</strong></a>
+
+<div><strong>25 Aug 2023</strong></div>
+
+<br/>React Hooks which were first introduced in React version 16.8 has brought a significant change to the way developers write code in React...
+
+</p> <br/> <br/>
+
+<p align="left">
   <a href="https://www.lambdatest.com/blog/css-spacing-tutorial/" title="How To Use CSS Spacing: Getting Started Guide"><img src="https://www.lambdatest.com/blog/wp-content/uploads/2023/02/How2520To2520Use2520CSS2520Spacing.png" alt="How to build Schedular Interface with CSS Grid" width="300px" align="left" /></a>
 
 <a href="https://www.lambdatest.com/blog/css-spacing-tutorial/" title="How To Use CSS Spacing: Getting Started Guide"><strong>How To Use CSS Spacing: Getting Started Guide</strong></a>
