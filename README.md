@@ -40,7 +40,7 @@ I'm a Frontend Web Developer, working as a Freelance Technical writer from India
 
 <br/>Suppose you are accessing the blog to read about how to add internal spacing with CSS. The first thing you will note about the page is the layout and the structure, which helps and navigates us with the blog to make it easy to access...
 
-</p> <br/> <br/>
+</p> <br/>
 
 <p align="left">
 <a href="https://testvox.com/chatgpt-the-ai-powered-game-changer-for-quality-assurance-professionals/" title="ChatGPT: The AI-Powered Game-Changer for Quality Assurance Professionals"><img src="https://testvox.com/wp-content/uploads/2023/02/ChatGPT-QA-companion1-1-1.jpg" alt="ChatGPT: The AI-Powered Game-Changer for Quality Assurance Professionals" width="300px" align="left" /></a>
