@@ -20,6 +20,7 @@ I'm a Frontend Web Developer, working as a Freelance Technical writer from India
 
 - [How to Make CSS Position Sticky: Tutorial With Examples](https://www.lambdatest.com/blog/css-position-sticky-tutorial/)
 - [How To Use CSS Spacing: Getting Started Guide](https://www.lambdatest.com/blog/css-spacing-tutorial/)
+- [A Guide to using useEffect Hook for React Lifecycle Methods](https://www.zipy.ai/blog/using-reacts-useeffect-hook-with-lifecyle-methods)
 - [ChatGPT: A Game Changer for QA Professionals](https://testvox.com/chatgpt-the-ai-powered-game-changer-for-quality-assurance-professionals/)
 
 ---
