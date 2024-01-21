@@ -16,45 +16,13 @@ I'm a Frontend Web Developer, working as a Freelance Technical writer from India
 
 ---
 
-<details>
-    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
+##### 📰 Latest Blogs Posts
 
-<!-- BLOG-POST-LIST:START -->
-<p align="left">
-<a href="https://www.lambdatest.com/blog/css-position-sticky-tutorial/" title="How to Make CSS Position Sticky: Tutorial With Examples"><img src="https://www.lambdatest.com/blog/wp-content/uploads/2020/08/How-to-Use-CSS-Position.png" alt="How to Make CSS Position Sticky: Tutorial With Examples" width="300px" align="left" /></a>
+- [How to Make CSS Position Sticky: Tutorial With Examples](https://www.lambdatest.com/blog/css-position-sticky-tutorial/)
+- [How To Use CSS Spacing: Getting Started Guide](https://www.lambdatest.com/blog/css-spacing-tutorial/)
+- [ChatGPT: A Game Changer for QA Professionals](https://testvox.com/chatgpt-the-ai-powered-game-changer-for-quality-assurance-professionals/)
 
-<a href="https://www.lambdatest.com/blog/css-position-sticky-tutorial/" title="How to Make CSS Position Sticky: Tutorial With Examples"><strong>How to Make CSS Position Sticky: Tutorial With Examples</strong></a>
-
-<div><strong>18 Jan 2024</strong></div>
-
-<br/>Have you ever come across the famous saying, The journey is just as important as the destination? This saying holds a profound truth in the world of web development....
-
-</p> <br/> <br/>
-
-<p align="left">
-  <a href="https://www.lambdatest.com/blog/css-spacing-tutorial/" title="How To Use CSS Spacing: Getting Started Guide"><img src="https://www.lambdatest.com/blog/wp-content/uploads/2023/02/How2520To2520Use2520CSS2520Spacing.png" alt="How to build Schedular Interface with CSS Grid" width="300px" align="left" /></a>
-
-<a href="https://www.lambdatest.com/blog/css-spacing-tutorial/" title="How To Use CSS Spacing: Getting Started Guide"><strong>How To Use CSS Spacing: Getting Started Guide</strong></a>
-
-<div><strong>Feb 6 2023</strong></div>
-
-<br/>Suppose you are accessing the blog to read about how to add internal spacing with CSS. The first thing you will note about the page is the layout and the structure, which helps and navigates us with the blog to make it easy to access...
-
-</p> <br/>
-
-<p align="left">
-<a href="https://testvox.com/chatgpt-the-ai-powered-game-changer-for-quality-assurance-professionals/" title="ChatGPT: The AI-Powered Game-Changer for Quality Assurance Professionals"><img src="https://testvox.com/wp-content/uploads/2023/02/ChatGPT-QA-companion1-1-1.jpg" alt="ChatGPT: The AI-Powered Game-Changer for Quality Assurance Professionals" width="300px" align="left" /></a>
-
-<a href="https://testvox.com/chatgpt-the-ai-powered-game-changer-for-quality-assurance-professionals/" title="ChatGPT: The AI-Powered Game-Changer for Quality Assurance Professionals"><strong>ChatGPT: The AI-Powered Game-Changer for Quality Assurance Professionals</strong></a>
-
-<div><strong>22 Feb 2023</strong></div>
-
-<br/>What if you had a strong ally who could support you with all of your QA requirements? That’s where ChatGPT for Software Tester comes in!...
-
-<!-- BLOG-POST-LIST:END -->
-</details>
-
-<br/>
+---
 
 <details>
     <summary><b>📊 GitHub Stats</b></summary><br/>
@@ -89,6 +57,9 @@ I'm a Frontend Web Developer, working as a Freelance Technical writer from India
 [![Spotify](https://my-readme-spotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31wz5ygbe22rsao7uns2lz2gd3lm)
 
 </details>
+
+<br/>
+
 <a href="https://www.twitter.com/aakash_codes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/aakash_codes?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.github.com/aakashrao-dev" target="_blank" rel="noreferrer"><img
