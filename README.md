@@ -6,6 +6,8 @@
 
 I'm a Frontend Web Developer, working as a Freelance Technical writer from India. ☕🎨🧑‍💻
 
+<br/>
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aakash_codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-codes) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white)](https://www.medium.com/@aakash_codes)
 
 - 🧑‍💻 Frontend Web Developer (CSS❤️)
@@ -28,8 +30,6 @@ I'm a Frontend Web Developer, working as a Freelance Technical writer from India
 <br/>Have you ever come across the famous saying, The journey is just as important as the destination? This saying holds a profound truth in the world of web development....
 
 </p> <br/> <br/>
-
-<br/> <br/>
 
 <p align="left">
   <a href="https://www.lambdatest.com/blog/css-spacing-tutorial/" title="How To Use CSS Spacing: Getting Started Guide"><img src="https://www.lambdatest.com/blog/wp-content/uploads/2023/02/How2520To2520Use2520CSS2520Spacing.png" alt="How to build Schedular Interface with CSS Grid" width="300px" align="left" /></a>
@@ -54,7 +54,7 @@ I'm a Frontend Web Developer, working as a Freelance Technical writer from India
 <!-- BLOG-POST-LIST:END -->
 </details>
 
-<br/><br/><br/>
+<br/>
 
 <details open>
     <summary><b>📊 GitHub Stats</b></summary><br/>
