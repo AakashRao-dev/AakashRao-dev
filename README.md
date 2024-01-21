@@ -16,7 +16,7 @@ I'm a Frontend Web Developer, working as a Freelance Technical writer from India
 
 ---
 
-#### 📰 Latest Blogs Posts
+#### 📰 Some of My Blog Posts
 
 - [How to Make CSS Position Sticky: Tutorial With Examples](https://www.lambdatest.com/blog/css-position-sticky-tutorial/)
 - [How To Use CSS Spacing: Getting Started Guide](https://www.lambdatest.com/blog/css-spacing-tutorial/)
