@@ -8,7 +8,7 @@ I'm a Frontend Web Developer, working as a Freelance Technical writer from India
 
 <br/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aakash_codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-codes) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white)](https://www.medium.com/@aakash_codes)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aakash_codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-codes) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white)](https://www.medium.com/@aakash_codes) [![Hahsnode](https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@Aakash-codes) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/aakash_codes) [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Aakash_codes)
 
 - 🧑‍💻 Frontend Web Developer (CSS❤️)
 - 💼 Technical writer @Lambdatest
