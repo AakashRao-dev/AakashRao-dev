@@ -4,13 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=CD3877&center=true&width=600&height=100&lines=A+Frontend+Web+Developer;and+a+Technical+Writer)](https://git.io/typing-svg)
 
-I'm a Software Engineering UnderGrad and a Frontend Web Developer. Currently Learning to Design, and working as a Freelance Technical writer from India. ☕🎨🧑‍💻
+I'm a Frontend Web Developer, working as a Freelance Technical writer from India. ☕🎨🧑‍💻
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aakash_codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-codes) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white)](https://www.medium.com/@aakash_codes) [![Hahsnode](https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@Aakash-codes) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/aakash_codes) [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Aakash_codes)
-
-I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https://medium.com/@Aakash_codes) & [Dev](https://dev.to/aakash_codes)
-
-<!-- Going to come back to this after I built my blog page for crafting my learning journey -->
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aakash_codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-codes) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white)](https://www.medium.com/@aakash_codes)
 
 - 🧑‍💻 Frontend Web Developer (CSS❤️)
 - 💼 Technical writer @Lambdatest
@@ -23,13 +19,13 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 
 <!-- BLOG-POST-LIST:START -->
 <p align="left">
-<a href="https://www.zipy.ai/blog/using-reacts-useeffect-hook-with-lifecyle-methods" title="A Guide to using useEffect Hook for React Lifecycle Methods"><img src="https://global-uploads.webflow.com/61ade8b25c29d61e883b12a4/64341e459a74bcf3ca4ece7e_A-Guide-to-using-useEffect-Hook-for-React-Lifecycle-Methods-p-800.jpg" alt="A Guide to using useEffect Hook for React Lifecycle Methods" width="300px" align="left" /></a>
+<a href="https://www.lambdatest.com/blog/css-position-sticky-tutorial/" title="How to Make CSS Position Sticky: Tutorial With Examples"><img src="https://www.lambdatest.com/blog/wp-content/uploads/2020/08/How-to-Use-CSS-Position.png" alt="How to Make CSS Position Sticky: Tutorial With Examples" width="300px" align="left" /></a>
 
-<a href="https://www.zipy.ai/blog/using-reacts-useeffect-hook-with-lifecyle-methods" title="A Guide to using useEffect Hook for React Lifecycle Methods"><strong>A Guide to using useEffect Hook for React Lifecycle Methods</strong></a>
+<a href="https://www.lambdatest.com/blog/css-position-sticky-tutorial/" title="How to Make CSS Position Sticky: Tutorial With Examples"><strong>How to Make CSS Position Sticky: Tutorial With Examples</strong></a>
 
-<div><strong>25 Aug 2023</strong></div>
+<div><strong>18 Jan 2024</strong></div>
 
-<br/>React Hooks which were first introduced in React version 16.8 has brought a significant change to the way developers write code in React...
+<br/>Have you ever come across the famous saying, The journey is just as important as the destination? This saying holds a profound truth in the world of web development....
 
 </p> <br/> <br/>
 
@@ -58,7 +54,7 @@ I write blogs on [Hashnode](https://hashnode.com/@Aakash-codes), [Medium](https:
 <!-- BLOG-POST-LIST:END -->
 </details>
 
-<br>
+<br/><br/><br/>
 
 <details open>
     <summary><b>📊 GitHub Stats</b></summary><br/>
